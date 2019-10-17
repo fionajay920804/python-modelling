@@ -1,0 +1,13 @@
+comm_size = 20
+num_comms = 5
+p_in = 0.5
+p_out = 0.015
+q = 0.15
+g = 0.2
+L_to_I_prob = 0.33
+symp_prob_threshold = 0.5
+latent_days_threshold = 3
+infected_days_threshold = 4
+show_pic = True
+show_process = True
+observed_prob_threshold = 0.5
